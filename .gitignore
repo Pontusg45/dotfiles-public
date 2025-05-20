@@ -71,3 +71,11 @@ Pods/
 # Tmux
 .config/tmux/plugins
 
+# Copilot
+hostsCopy.json
+hosts.json
+
+# Raycast
+raycast/**
+
+raycast.bak/**
